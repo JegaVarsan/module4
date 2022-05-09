@@ -12,4 +12,4 @@
         helloSpeaker.speak(names[i]);
       }
     }
-})
+})();
